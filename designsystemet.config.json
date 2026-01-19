@@ -5,7 +5,8 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#6840FF"
+          "primary": "#6840FF",
+          "accent": "#A1FF63"
         },
         "support": {
           "lime": "#A1FF63",
