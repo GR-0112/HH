@@ -2,7 +2,7 @@
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
   "outDir": "./design-tokens",
   "themes": {
-    "hh": {
+    "theme": {
       "colors": {
         "main": {
           "primary": "#6840FF",
