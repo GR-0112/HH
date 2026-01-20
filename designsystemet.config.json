@@ -5,14 +5,13 @@
     "hh": {
       "colors": {
         "main": {
-          "primary": "#6840FF",
-          "accent": "#A1FF63"
+          "accent": "#6840FF"
         },
         "support": {
-          "extra1": "#A59E97",
-          "extra2": "#F94132"
+          "brand1": "#A1FF63",
+          "brand2": "#F94132"
         },
-        "neutral": "#24262b"
+        "neutral": "#100f10"
       },
       "borderRadius": 4
     }
