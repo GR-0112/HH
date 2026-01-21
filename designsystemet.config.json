@@ -2,7 +2,7 @@
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
   "outDir": "./design-tokens",
   "themes": {
-    "hh": {
+    "theme": {
       "colors": {
         "main": {
           "primary": "#6840FF"
@@ -10,7 +10,7 @@
         "support": {
           "lime": "#A1FF63",
           "red": "#F94132",
-          "beige": "#eae4d8"
+          "beige": "#fcf8ed"
         },
         "neutral": "#100f10"
       },
