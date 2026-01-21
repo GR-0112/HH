@@ -19,9 +19,10 @@
     "themes/theme",
     "themes/hh",
     "semantic/color",
-    "semantic/modes/main-color/accent",
-    "semantic/modes/support-color/brand1",
-    "semantic/modes/support-color/brand2",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/support-color/lime",
+    "semantic/modes/support-color/red",
+    "semantic/modes/support-color/beige",
     "semantic/style"
   ]
 }
