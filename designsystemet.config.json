@@ -5,11 +5,12 @@
     "hh": {
       "colors": {
         "main": {
-          "accent": "#6840FF"
+          "primary": "#6840FF"
         },
         "support": {
-          "brand1": "#A1FF63",
-          "brand2": "#F94132"
+          "lime": "#A1FF63",
+          "red": "#F94132",
+          "beige": "#FCF6E4"
         },
         "neutral": "#100f10"
       },
