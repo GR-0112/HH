@@ -10,9 +10,9 @@
         "support": {
           "lime": "#A1FF63",
           "red": "#F94132",
-          "beige": "#fcf8ed"
+          "beige": "#f8f9eb"
         },
-        "neutral": "#100f10"
+        "neutral": "#111112"
       },
       "borderRadius": 4
     }
