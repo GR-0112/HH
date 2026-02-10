@@ -5,15 +5,14 @@
     "theme": {
       "colors": {
         "main": {
-          "primary": "#8190FF"
+          "primary": "#B2B1FF"
         },
         "support": {
           "lime": "#A1FF63"
         },
         "neutral": "#F6F3EE"
       },
-      "borderRadius": 12
+      "borderRadius": 8
     }
   }
 }
-
