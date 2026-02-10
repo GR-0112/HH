@@ -21,6 +21,7 @@
     "semantic/color",
     "semantic/modes/main-color/primary",
     "semantic/modes/support-color/lime",
+    "semantic/modes/support-color/beige",
     "semantic/style"
   ]
 }

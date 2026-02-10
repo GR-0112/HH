@@ -129,5 +129,13 @@
       "semantic/modes/support-color/lime": "enabled"
     },
     "group": "Support color"
+  },
+  {
+    "id": "875ca111dbe9b4c44f303046c47d39830c0e83ba",
+    "name": "beige",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/beige": "enabled"
+    },
+    "group": "Support color"
   }
 ]
