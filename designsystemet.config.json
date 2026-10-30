@@ -1,17 +1,13 @@
 {
-  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "$schema": "https://designsystemet.no/schemas/config/1.23.0.json",
   "outDir": "./design-tokens",
   "themes": {
     "hh": {
       "colors": {
-        "main": {
-          "primary": "#b1b1ff"
-        },
-        "support": {
-          "lime": "#A1FF63",
-          "beige": "#F6F3EE"
-        },
-        "neutral": "#000000"
+        "accent": "#B4C5FF",
+        "primary": "#250D47",
+        "secondary": "#5C2B44",
+        "neutral": "#F6F3EE"
       },
       "borderRadius": 4
     }
